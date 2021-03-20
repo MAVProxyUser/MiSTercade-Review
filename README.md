@@ -5,7 +5,7 @@ Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in
 [![Mister Addons](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/misteraddons.png)](https://misteraddons.com)
 [![Mistercade](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/mistercade.jpg)](https://github.com/misteraddons/MiSTercade)<br>
 
-Some of you may be a bit young, but Jack Burton is one of the main characters in Big Trouble in Little China.<br>
+Some of you may be a bit young, but Jack Burton is the main characters in Big Trouble in Little China.<br>
 Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says, "Give me your best shot, pal. I can take it."<br>
 
 On that note, this is not going to be your normal MisterCade review... I've watched a few now, and most folks tend to focus on the fact that they are having fun, and able to do so in their 
