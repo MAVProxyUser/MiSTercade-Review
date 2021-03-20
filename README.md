@@ -8,7 +8,7 @@ Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in
 Some of you may be a bit young, but Jack Burton is the main characters in Big Trouble in Little China.<br>
 Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says, "Give me your best shot, pal. I can take it."<br>
 
-On that note, this is not going to be your normal MisterCade review... I've watched a few now, and most folks tend to focus on the fact that they are having fun, and able to do so in their 
+On that note, this is not going to be your normal MisterCade review. I've watched a few now, and most folks tend to focus on the fact that they are having fun, and able to do so in their 
 arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. 
 https://www.youtube.com/watch?v=9-212r6kKC8<br>
 https://www.youtube.com/watch?v=yHAW0AfTomA<br>
@@ -19,15 +19,13 @@ I want to first say that some of you will find this to be overly critical, and h
 in the process of soaking up all the positive energy from recent articles in The Verge!
 https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc
 
-My first MiSTer exposure was in 2019. I was admiditly curious, but skeptical, due to my oversion to MAME. "Forget emulation? this is REcreation" was the title to the now gone video. 
-https://twitter.com/d0tslash/status/1167069959291379712
-based on the date of my Tweet, I'm pretty sure it was when the Neo Geo core was relesaed. I was at that time restoring an MVS system in my arcade, so this was quite intriguing to me. 
-https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/
-https://www.youtube.com/watch?v=tcja7Cppiq0
-Both the original post, and video are long gone. 
-https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/ezx6ecj/?utm_source=reddit&utm_medium=web2x&context=3
+My first MiSTer exposure was in 2019. I was admiditly curious, but skeptical, due to my oversion to MAME based software emulation. "Forget emulation? this is REcreation" was the title to the now gone video. 
+based on the date of my [Tweet](https://twitter.com/d0tslash/status/1167069959291379712), I'm pretty sure it was when the Neo Geo core was relesaed. I was at that time restoring an MVS system in my arcade, so this was quite intriguing to me. <br>
+https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/<br>
+https://www.youtube.com/watch?v=tcja7Cppiq0<br>
+Both the [original post](https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/ezx6ecj/?utm_source=reddit&utm_medium=web2x&context=3), and video are long gone. 
 
-I've since bought two bundles from Porkchop Express aka Mister Addons or JackBurton in some circles. I have both a Standard, and Digital IO, as well as some SNAC accessories
+I've since bought two bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka Mister Addons or JackBurton in some circles. I have both a Standard, and Digital IO, as well as some SNAC accessories
 that allow me to plug in my native controllers for PC Engine, and Super Nintendo. Generally speaking I don't care too much about the arcade cores, I'm more interested in the console 
 cores for Genesis, NES, SNES, PCEngine, GameBoy, and Gameboy Advance. 
 https://www.atari-forum.com/viewtopic.php?t=33613
