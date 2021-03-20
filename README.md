@@ -24,21 +24,18 @@ Both the [original post](https://www.reddit.com/r/fpgagaming/comments/d2hasc/neo
 I've since bought two bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka [Mister Addons or JackBurton in some circles](https://www.atari-forum.com/viewtopic.php?t=33613). I have both a [Standard IO](https://misteraddons.com/products/io-board-v6-1-with-heatsink), and [Digital IO](https://misteraddons.com/products/io-digital-board-v1-2-with-heatsink), as well as some [SNAC accessories](https://misterfpga.co.uk/product/snac-controller-adapters-pcb-set/) that allow me to plug in my native controllers for PC Engine, and Super Nintendo. Generally speaking I don't care too much about the arcade cores, I'm more interested in the console 
 cores for Genesis, NES, SNES, PCEngine, GameBoy, and Gameboy Advance. 
 
-Honestly before the [Jotego CPS2](https://www.patreon.com/topapate) core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. The [Cave core](https://www.patreon.com/nullobject) is pretty lit of course. This goes without saying. The [PSX core](https://www.patreon.com/laxer3a) is also interesting to me, but is clearly a bit early to discuss. https://www.patreon.com/laxer3a
+Honestly before the [Jotego CPS2](https://www.patreon.com/topapate) core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. The [Cave core](https://www.patreon.com/nullobject) is pretty lit of course. This goes without saying. The [PSX core](https://www.patreon.com/laxer3a) is also interesting to me, but is clearly a bit early to discuss. 
 
 Over all [I am notoriously anti emulation](https://youtu.be/0U0dcHUY-5M?t=852), as I've [stated a number of times](https://youtu.be/OQGs_8J4a8c?t=2129), so adopting MiSTer requires an extremely focused eye on the supporting landscape. If even the slightest
 thing is out of place it will annoy me to no end, and make me subject to not using the platform at all.  
 
 "latency" isn't really a conversation piece for me, although I know it is a huge thing for other folks. Porkchop Express maintains for example that largest spreadsheet that I am 
-aware of documenting lag in MiSter input options. 
-https://twitter.com/MisterAddons/status/1265071632382640131
+aware of [documenting lag in MiSter input options](https://twitter.com/MisterAddons/status/1265071632382640131).
 
 "accuracy" is something I care quite a bit about, both in "video output" / "stick input", as well as in over all experience. So the first annoyance for me was what seemed to be an 
-obsession with USB input. This was the first place that I got the feeling that the MiSTer arcade landscape needs to mature a little. There seems to be a strong "consolidation" feel
-to the whole project. For me stems feel stems from an unnecessary focus on USB input, key mapping, and HDMI output.<br> 
+obsession with USB input. This was the first place that I got the feeling that the MiSTer arcade landscape needs to mature a little before it's own secondary mainstreaming, alongside current MiSTer hype. There seems to be a strong "consolidation" feel to the whole project. For me stems feel stems from an unnecessary focus on USB input, key mapping, and HDMI output. <br>
 
-Despite the uptick in "arcade" marketing for various accessories for MiSTer, few folks seem to have actual "arcade" experience, or actually own cabs, let alone more than one. <br>
-This generally isn't a problem for most MiSTer users, but as an arcade operator coming into the mix, it is extremely annoying. Some of the workflows in the menuing system are almost 
+Despite the uptick in "arcade" marketing for various accessories for MiSTer, few folks seem to have actual "arcade" experience, or actually own cabs, let alone more than one. This generally isn't a problem for most MiSTer users, but as an arcade operator coming into the mix, it is extremely annoying. Some of the workflows in the menuing system are almost 
 complete non-starters for actual use in an arcade with end users whom have never heard of MiSTer, or flat out don't care to know. Most folks that touch my machines just want to play
 the game that I have set on the Marquee. The folks operating my machines in various locations simply want to be able to turn them off, and back on in the event of a problem, expecting
 that they will boot back up ready to rock. At the very least the cabinet operators need the most basic of service, and coin menu functions for day to day operations. At this point in
