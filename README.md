@@ -8,37 +8,26 @@ Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in
 Some of you may be a bit young, but Jack Burton is the main characters in Big Trouble in Little China.<br>
 Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says, "Give me your best shot, pal. I can take it."<br>
 
-On that note, this is not going to be your normal MisterCade review. I've watched a few now, and most folks tend to focus on the fact that they are having fun, and able to do so in their 
-arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. 
+On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. 
 https://www.youtube.com/watch?v=9-212r6kKC8<br>
 https://www.youtube.com/watch?v=yHAW0AfTomA<br>
 https://twitter.com/EVAWINGZERO/status/1368972349387776000<br>
 https://twitter.com/ScarletSprites/status/1355950337778196487<br>
 
-I want to first say that some of you will find this to be overly critical, and honestly may get offended. Constructive criticism can be hard to absorb, especially when you are
-in the process of soaking up all the positive energy from recent articles in The Verge!
-https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc
+I want to first say that some of you will find this to be overly critical of the MiSTer project, and honestly may get offended. Constructive criticism can be hard to absorb, especially when you are
+in the process of soaking up all the positive energy from recent articles in [The Verge](https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc)! My past few weeks have been spent in the trenches discussing nuances of MiSTer with long time users, devs, and potential new users on the fence about making their first investment. 
 
 My first MiSTer exposure was in 2019. I was admiditly curious, but skeptical, due to my oversion to MAME based software emulation. "Forget emulation? this is REcreation" was the title to the now gone video. 
 based on the date of my [Tweet](https://twitter.com/d0tslash/status/1167069959291379712), I'm pretty sure it was when the [Neo Geo core was relesaed](https://www.youtube.com/watch?v=tcja7Cppiq0). I was at that time restoring an MVS system in my arcade, so this was quite intriguing to me. <br>
-https://www.youtube.com/watch?v=tcja7Cppiq0<br>
-Both the [original post](https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/ezx6ecj/?utm_source=reddit&utm_medium=web2x&context=3), and video are long gone. 
+Both the [original post](https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/ezx6ecj/?utm_source=reddit&utm_medium=web2x&context=3), and [video](https://www.youtube.com/watch?v=LZoXP0Uww80) are long gone.
 
-I've since bought two bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka [Mister Addons or JackBurton in some circles](https://www.atari-forum.com/viewtopic.php?t=33613). I have both a Standard, and Digital IO, as well as some SNAC accessories
-that allow me to plug in my native controllers for PC Engine, and Super Nintendo. Generally speaking I don't care too much about the arcade cores, I'm more interested in the console 
+I've since bought two bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka [Mister Addons or JackBurton in some circles](https://www.atari-forum.com/viewtopic.php?t=33613). I have both a [Standard IO](https://misteraddons.com/products/io-board-v6-1-with-heatsink), and [Digital IO](https://misteraddons.com/products/io-digital-board-v1-2-with-heatsink), as well as some [SNAC accessories](https://misterfpga.co.uk/product/snac-controller-adapters-pcb-set/) that allow me to plug in my native controllers for PC Engine, and Super Nintendo. Generally speaking I don't care too much about the arcade cores, I'm more interested in the console 
 cores for Genesis, NES, SNES, PCEngine, GameBoy, and Gameboy Advance. 
 
-Honestly before the CPS2 core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. 
-https://www.patreon.com/topapate
+Honestly before the [Jotego CPS2](https://www.patreon.com/topapate) core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. The [Cave core](https://www.patreon.com/nullobject) is pretty lit of course. This goes without saying. The [PSX core](https://www.patreon.com/laxer3a) is also interesting to me, but is clearly a bit early to discuss. https://www.patreon.com/laxer3a
 
-The Cave core is pretty lit of course. This goes without saying. https://www.patreon.com/nullobject
-
-The PSX core is also interesting to me, but is clearly a bit early to discuss. https://www.patreon.com/laxer3a
-
-Over all I am notoriously anti emulation, as I've stated a number of times, so adopting MiSTer requires an extremely focused eye on the supporting landscape. If even the slightest
+Over all [I am notoriously anti emulation](https://youtu.be/0U0dcHUY-5M?t=852), as I've [stated a number of times](https://youtu.be/OQGs_8J4a8c?t=2129), so adopting MiSTer requires an extremely focused eye on the supporting landscape. If even the slightest
 thing is out of place it will annoy me to no end, and make me subject to not using the platform at all.  
-https://youtu.be/0U0dcHUY-5M?t=852 
-https://youtu.be/OQGs_8J4a8c?t=2129
 
 "latency" isn't really a conversation piece for me, although I know it is a huge thing for other folks. Porkchop Express maintains for example that largest spreadsheet that I am 
 aware of documenting lag in MiSter input options. 
