@@ -20,15 +20,13 @@ in the process of soaking up all the positive energy from recent articles in The
 https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc
 
 My first MiSTer exposure was in 2019. I was admiditly curious, but skeptical, due to my oversion to MAME based software emulation. "Forget emulation? this is REcreation" was the title to the now gone video. 
-based on the date of my [Tweet](https://twitter.com/d0tslash/status/1167069959291379712), I'm pretty sure it was when the Neo Geo core was relesaed. I was at that time restoring an MVS system in my arcade, so this was quite intriguing to me. <br>
-https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/<br>
+based on the date of my [Tweet](https://twitter.com/d0tslash/status/1167069959291379712), I'm pretty sure it was when the [Neo Geo core was relesaed](https://www.youtube.com/watch?v=tcja7Cppiq0). I was at that time restoring an MVS system in my arcade, so this was quite intriguing to me. <br>
 https://www.youtube.com/watch?v=tcja7Cppiq0<br>
 Both the [original post](https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/ezx6ecj/?utm_source=reddit&utm_medium=web2x&context=3), and video are long gone. 
 
-I've since bought two bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka Mister Addons or JackBurton in some circles. I have both a Standard, and Digital IO, as well as some SNAC accessories
+I've since bought two bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka [Mister Addons or JackBurton in some circles](https://www.atari-forum.com/viewtopic.php?t=33613). I have both a Standard, and Digital IO, as well as some SNAC accessories
 that allow me to plug in my native controllers for PC Engine, and Super Nintendo. Generally speaking I don't care too much about the arcade cores, I'm more interested in the console 
 cores for Genesis, NES, SNES, PCEngine, GameBoy, and Gameboy Advance. 
-https://www.atari-forum.com/viewtopic.php?t=33613
 
 Honestly before the CPS2 core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. 
 https://www.patreon.com/topapate
