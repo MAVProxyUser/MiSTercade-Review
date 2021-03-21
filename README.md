@@ -35,7 +35,7 @@ On that note, this is not going to be your normal Mistercade review. I've watche
 
 ## Trigger warning
 I want to first say that some of you will find this to be overly critical of the MiSTer project, and honestly may get offended. Constructive criticism can be hard to absorb, especially when you are
-in the process of soaking up all the positive energy from recent articles in [The Verge](https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc)! My past few weeks have been spent in the trenches as a hopeful, fresh new user, discussing nuances of MiSTer with long time users, devs, and potential new users on the fence about making their first investment. 
+in the process of soaking up all the positive energy from a recent article in [The Verge](https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc)! My past few weeks have been spent in the trenches as a hopeful, fresh new user, discussing nuances of MiSTer with long time users, devs, and potential new users on the fence about making their first investment. 
 
 # I'm going in! 
 My first MiSTer exposure was in 2019. I was admiditly curious, but skeptical, due to my aversion to MAME based software emulation. "Forget emulation? this is REcreation" was the title to the now gone video. 
