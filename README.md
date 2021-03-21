@@ -34,7 +34,7 @@ thing is out of place it will annoy me to no end, and make me subject to not usi
 "latency" isn't really a conversation piece for me, although I know it is a huge thing for other folks. Porkchop Express maintains for example that largest spreadsheet that I am aware of [documenting lag in MiSter input options](https://twitter.com/MisterAddons/status/1265071632382640131). 
 
 "accuracy" is something I care quite a bit about, both in "video output" / "stick input", as well as in over all experience. So the first annoyance for me was what seemed to be an obsession with USB input. This was the first place that I got the feeling that the MiSTer arcade landscape needs to mature a little before it's own secondary mainstreaming, alongside current MiSTer hype. There seems to be a strong "consolidation" feel to the whole project. For me stems feel stems from an unnecessary focus on USB input, key mapping, and HDMI output. The conversation is almost comical at it's core, and honestly threw up some of the first red flags for me as an end user. <br>
-[![lag](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/lag.jpg)](https://www.atari-forum.com/viewtopic.php?p=389051#p389051)
+[![lag](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/lag.png)](https://www.atari-forum.com/viewtopic.php?p=389051#p389051)
 
 
 Despite the uptick in "arcade" marketing for various accessories for MiSTer, few folks seem to have actual "arcade" experience, or actually own cabs, let alone more than one. This generally isn't a problem for most MiSTer users, but as an arcade operator coming into the mix, it is extremely annoying. 
