@@ -135,7 +135,7 @@ https://focusattack.com/pb-jamma-project-adapter-board/<br>
 [![xbox](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/xbox.png)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
 
 # Conclusion
-Having examined all of the above solutions, including my own attempt, it was easy to point at the MiSTercade as the winner. I flat out can't have things hanging off MiSTer, it drives me nuts. 
+Having examined all of the above solutions, including my own attempt, it was easy to point at the MiSTercade as the winner. I flat out can't have things hanging off MiSTer, it drives me nuts. <br>
 [![hanging](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/irken.png)](https://irkenlabs.com/82-winter-update-2021)
 
 This immediately eliminates several of the options. The other options are either boutique in nature, or are so limited in availability the are not worth considering. A few of these are clearly just the musings of random MiSTer aficionados and will never see a proper manufacturing run.<br>
