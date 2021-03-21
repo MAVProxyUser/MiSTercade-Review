@@ -131,8 +131,8 @@ https://irkenlabs.com/85-mister-de10-nano-jamma-expander
 
 ## My own attempt
 Given the availability of some of the options, I decided to take a shot a building my own adapter from commodity hardware. I chose the Microsoft Adaptive controller, combined with a Focus Attack PB.Jamma V1.0 board, and 3.5mm audio jacks.<br>
-https://focusattack.com/pb-jamma-project-adapter-board/<br>
 
+[![pbjamma](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/pbjamma.png)](https://focusattack.com/pb-jamma-project-adapter-board/)
 [![xbox](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/xbox.png)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
 
 # Conclusion
