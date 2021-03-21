@@ -37,8 +37,12 @@ thing is out of place it will annoy me to no end, and make me subject to not usi
 [![lag](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/lag.jpg)](https://www.atari-forum.com/viewtopic.php?p=389051#p389051)
 
 
-Despite the uptick in "arcade" marketing for various accessories for MiSTer, few folks seem to have actual "arcade" experience, or actually own cabs, let alone more than one. This generally isn't a problem for most MiSTer users, but as an arcade operator coming into the mix, it is extremely annoying. Some of the workflows in the menuing system are almost 
-complete non-starters for actual use in an arcade with end users whom have never heard of MiSTer, or flat out don't care to know. Most folks that touch my machines just want to play
+Despite the uptick in "arcade" marketing for various accessories for MiSTer, few folks seem to have actual "arcade" experience, or actually own cabs, let alone more than one. This generally isn't a problem for most MiSTer users, but as an arcade operator coming into the mix, it is extremely annoying. 
+
+[![tv](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/tv.png)](https://www.atari-forum.com/viewtopic.php?p=399173#p399173)
+
+
+Some of the workflows in the menuing system are almost complete non-starters for actual use in an arcade with end users whom have never heard of MiSTer, or flat out don't care to know. Most folks that touch my machines just want to play
 the game that I have set on the Marquee. The folks operating my machines in various locations simply want to be able to turn them off, and back on in the event of a problem, expecting
 that they will boot back up ready to rock. At the very least the cabinet operators need the most basic of service, and coin menu functions for day to day operations. At this point in
 time a power outage, or a stick button / stick would be very disruptive to normal usage. The lack of a universal test or service core seems counter-intuitive in my opinion. The menu 
@@ -47,8 +51,6 @@ common multi-cart platforms.
 
 These are a few comments tha I ran across while looking around for others that had possibly found the settings necessary for a more rich arcade experience while using MiSTer. 
 
-"MiSTer is not made specifically for arcade cabinets. It's primarily for home TV use" <br>
-https://www.atari-forum.com/viewtopic.php?p=399173#p399173
 "While i can't help with output part (it's very specific to each arcade if it doesn't provide standard input like HDMI), i plan to make a thread where i can explain how to connect buttons easily to MiSTer without changing anything in MiSTer." <br>
 https://www.atari-forum.com/viewtopic.php?p=399977#p399977
 
