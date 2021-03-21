@@ -66,7 +66,7 @@ Some of the workflows in the menuing system are almost complete non-starters for
 At the very least the cabinet operators also need the most basic of service, and coin menu functions for day to day operations, and player comp situations. At this point in time a power outage, 
 or troubleshooting a stuck button / stick would be very disruptive to normal usage.<br> 
 
-The lack of a universal test or service core seems counter-intuitive in my opinion. The menu itself is a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of common multi-cart platforms.  
+The lack of a universal test or service core seems counter-intuitive in my opinion. The menu itself is also a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of common multi-cart platforms.  
 <img src=https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/menu.png>
 
 ## Word on the streets
