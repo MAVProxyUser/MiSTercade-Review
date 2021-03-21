@@ -55,14 +55,15 @@ These are a few comments tha I ran across while looking around for others that h
 
 ["While i can't help with output part (it's very specific to each arcade if it doesn't provide standard input like HDMI), i plan to make a thread where i can explain how to connect buttons easily to MiSTer without changing anything in MiSTer."](https://www.atari-forum.com/viewtopic.php?p=399977#p399977)<br>
 
-["As a potential customer feedback, my use of MiSTer is... arcade: being able to play in a cab (JVS, mostly, but JAMMA option is still cool although I see it more as an external add-on)... having a DB15 connector is a must have IMO)"](https://misterfpga.org/viewtopic.php?p=8739#p8739)<br>
+["As a potential customer feedback, my use of MiSTer is... arcade: being able to play in a cab (JVS, mostly, but JAMMA option is still cool although I see it more as an external add-on)"](https://misterfpga.org/viewtopic.php?p=8739#p8739)<br>
 
 ["I would suggest looking to the JVS standard for inspiration to avoid future head-aches."](https://misterfpga.org/viewtopic.php?t=94)<br>
 
-["I think the 2nd player controls are still pretty wonky on MiSTer, maybe them devs need mates to actually understand that gaming isnt only about player 1 :P"](https://www.arcade-projects.com/threads/mister-fpga-2-player-jamma-build.12887/)<br>
+["maybe them devs need mates to actually understand that gaming isnt only about player 1 :P"](https://www.arcade-projects.com/threads/mister-fpga-2-player-jamma-build.12887/)<br>
 
 ["Let me explain the reason why I would want to swap out the menu with something nicer. I'm looking at buying a MisterCADE."](https://misterfpga.org/viewtopic.php?p=18163#p18163)<br>
 
+## My preferences and observations
 I personally don't usually use JAMMA, I'm more of a JVS guy. My cabs do however have the following looms. <br>
 https://www.rs2006.co.jp/e/jamma_harness/index.html
 
