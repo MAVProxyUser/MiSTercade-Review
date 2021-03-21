@@ -5,6 +5,21 @@ This is a candid review of [MiSTercade](https://misteraddons.com/products/mister
 [![Mister Addons](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/misteraddons.png)](https://misteraddons.com)
 [![Mistercade](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/mistercade.jpg)](https://github.com/misteraddons/MiSTercade)<br>
 
+   * [MiSTercade review](#mistercade-review)
+   * [Intro](#intro)
+   * [Buckle up](#buckle-up)
+      * [Trigger warning](#trigger-warning)
+   * [I'm going in!](#im-going-in)
+   * [Emulation, or recreation?](#emulation-or-recreation)
+   * [Is this arcade ready?](#is-this-arcade-ready)
+      * [Questionable usablilty](#questionable-usablilty)
+      * [Word on the streets](#word-on-the-streets)
+   * [My preferences and observations](#my-preferences-and-observations)
+      * [8 competing solutions!?](#8-competing-solutions)
+      * [My own attempt](#my-own-attempt)
+   * [Conclusion](#conclusion)
+
+# Intro
 Some of you may be a bit young, but Jack Burton is of course the main character in Big Trouble in Little China. **Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says,** 
 *"Give me your best shot, pal. I can take it."*<br>
 
@@ -54,7 +69,7 @@ or troubleshooting a stuck button / stick would be very disruptive to normal usa
 The lack of a universal test or service core seems counter-intuitive in my opinion. The menu itself is a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of common multi-cart platforms.  
 
 ## Word on the streets
-These are a few comments tha I ran across while looking around for others that had possibly found the settings necessary for a more rich arcade experience while using MiSTer. 
+These are a few comments that I ran across while looking around for others that had possibly found the settings necessary for a more rich arcade experience while using MiSTer. 
 
 ["While i can't help with output part (it's very specific to each arcade if it doesn't provide standard input like HDMI), i plan to make a thread where i can explain how to connect buttons easily to MiSTer without changing anything in MiSTer."](https://www.atari-forum.com/viewtopic.php?p=399977#p399977)<br>
 
@@ -66,39 +81,37 @@ These are a few comments tha I ran across while looking around for others that h
 
 ["Let me explain the reason why I would want to swap out the menu with something nicer. I'm looking at buying a MisterCADE."](https://misterfpga.org/viewtopic.php?p=18163#p18163)<br>
 
-## My preferences and observations
-I personally don't usually use JAMMA, I'm more of a JVS guy. My cabs do however have the following looms. <br>
+# My preferences and observations
+I personally don't usually use JAMMA that much, I'm more of a JVS guy. Several of my cabs do however have the following looms from River Service. <br>
 [![loom](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/loom.png)](https://www.rs2006.co.jp/e/jamma_harness/index.html)
 
-5 competing solutions!?
+## 8 competing solutions!?
 
-LL Arcade<br>
-https://twitter.com/AshEvans81/status/1155895871986425861?s=20<br>
-https://twitter.com/AshEvans81/status/1130007347357724673<br>
-https://twitter.com/AshEvans81/status/1293997024296271872<br>
-https://twitter.com/AshEvans81/
+I of course had to do my due dilligence and make sure that there wasn't a better solution available. I came across the following projects, and products while looking.<br>
 
-JAMMA Super Gun for Mister<br> 
-https://twitter.com/antoniovil/status/1196978649351835648<br>
-https://www.antoniovillena.es/store/product/supergun-2/ <br>
-https://www.antoniovillena.es/store/product/jamma-adapter/ <br>
-
-MisterCade<br> 
+MisterCade by PorkChop Express<br> 
 https://twitter.com/misteraddons/status/1308618491466067968?lang=en<br>
 https://twitter.com/MisterAddons/status/1307768041284022275<br>
 https://twitter.com/MisterAddons/status/1311535860710547457<br>
-https://github.com/misteraddons/MiSTercade<br>
 https://www.youtube.com/watch?v=9-212r6kKC8<br>
 https://www.youtube.com/watch?v=PVk_Z1g1qb8<br>
 https://www.youtube.com/watch?v=JQzc5L9ydrE<br>
-https://twitter.com/misteraddons/
+
+LL Arcade by ElectronAsh<br>
+https://twitter.com/AshEvans81/status/1155895871986425861<br>
+https://twitter.com/AshEvans81/status/1130007347357724673<br>
+https://twitter.com/AshEvans81/status/1293997024296271872<br>
+
+JAMMA Super Gun for Mister by Antonio Villena<br> 
+https://twitter.com/antoniovil/status/1196978649351835648<br>
+https://www.antoniovillena.es/store/product/jamma-adapter/ <br>
 
 MISTER2JAMMA by Aje_ft<br> 
 https://twitter.com/aje_fr/status/1371955229948792841<br>
-https://twitter.com/aje_fr/
 
 JAMMIX <br>
-https://twitter.com/JammixO
+https://twitter.com/JammixO/status/1368665538721947648<br>
+https://www.reddit.com/r/FPGAarcade/comments/lzzplz/jammix_mini_itx_and_jamma_io_board_for_mister/
 
 JAMMASD<br>
 https://www.arcadexpress.com/en/video-converters/257-tarjeta-jamma-asd.html<br>
@@ -110,10 +123,13 @@ https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/
 JammaCon<br>
 http://retrotechr.blogspot.com/2015/11/jammacon.html?m=1
 
+## My own attempt
 Microsoft Adaptive controller with focus attack PB.Jamma V1.0 and 3.5mm audio jacks.<br>
 https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller<br>
 https://focusattack.com/pb-jamma-project-adapter-board/<br>
 https://twitter.com/arcade_projects/status/1371310079711002626<br>
 https://twitter.com/arcade_projects/status/1364406245076197377<br>
 https://twitter.com/arcade_projects
+
+# Conclusion
 
