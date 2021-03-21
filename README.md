@@ -162,3 +162,6 @@ So as not to spoil the rest of the commentary I won't discuss this further. I wi
 
 [![booger](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/booger.jpeg)](https://www.reddit.com/r/fpgagaming/comments/lbccqa/official_mister_fpga_discord/)
 
+Such weird posturing for an "Open Source" project. 
+<img src=https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/sharing.jpeg>
+
