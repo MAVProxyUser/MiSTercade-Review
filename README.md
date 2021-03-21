@@ -1,6 +1,5 @@
-On that note, this is not going to be your normal Mistercade review.
-# MiSTercade-Review
-Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) landscape
+# MiSTercade review
+This is a candid review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) landscape
 
 [![Big trouble, little china](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/porkchopexpress.jpg)](https://www.imdb.com/title/tt0090728/characters/nm0000621)
 [![Mister Addons](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/misteraddons.png)](https://misteraddons.com)
