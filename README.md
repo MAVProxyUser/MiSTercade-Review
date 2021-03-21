@@ -146,6 +146,8 @@ For me the MiSTercade is quite simply a very clean hardware design, backed by a 
 ## Open Source
 So as not to spoil the rest of the commentary I won't discuss this further. I will say however that the flat out refusal to share the MiSTer [buildroot](https://buildroot.org) will absolutly cause Open Source, and GPL purists to steer clear of the project. There has been some very concerning commentary out of the project leads indicating that they are not familar with common Open Source practices. I will leave a few of the more egrigious comments below. 
 
+[![scripts](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/scripts.jpeg)](https://discord.com/invite/4xKVg4XVYn)
+
 [![buildroot](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/buildroot.png)](https://buildroot.org/downloads/manual/manual.html)
 
 [![bins](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/debianbins.jpeg)](https://misterfpga.org/viewtopic.php?p=4350#p4350)
@@ -157,8 +159,6 @@ So as not to spoil the rest of the commentary I won't discuss this further. I wi
 [![license](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/license.jpeg)](https://github.com/MiSTer-devel/Main_MiSTer/issues/110#issuecomment-544278201)
 
 [![linuxbuilds](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/linuxbuilds.jpeg)](https://www.atari-forum.com/viewtopic.php?f=117&t=36858&p=375331&#p375331)
-
-[![scripts](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/scripts.jpeg)](https://discord.com/invite/4xKVg4XVYn)
 
 [![booger](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/booger.jpeg)](https://www.reddit.com/r/fpgagaming/comments/lbccqa/official_mister_fpga_discord/)
 
