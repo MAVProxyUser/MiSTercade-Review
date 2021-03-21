@@ -123,10 +123,10 @@ https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/
 JammaCon<br>
 http://retrotechr.blogspot.com/2015/11/jammacon.html?m=1
 
-JVS-PAC2
+JVS-PAC2<br>
 https://irkenlabs.com/jvs-pac2/introduction
 
-DE10-Nano JAMMA Expander
+DE10-Nano JAMMA Expander<br>
 https://irkenlabs.com/85-mister-de10-nano-jamma-expander
 
 ## My own attempt
