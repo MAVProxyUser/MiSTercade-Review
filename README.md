@@ -10,7 +10,7 @@ Some of you may be a bit young, but Jack Burton is of course the main character 
 
 [![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.jpg)](https://www.youtube.com/watch?v=592EiTD2Hgo)
 
-On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. 
+On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. <br>
 [MiSTerCade: FPGA JAMMA Greatness for Arcade Gaming!](https://www.youtube.com/watch?v=9-212r6kKC8)<br>
 [Join us for a nice little cozy MiSTer FPGA stream @misteraddons MiSTerCade](https://www.youtube.com/watch?v=yHAW0AfTomA)<br>
 [Tonight we are taking the @MisterAddons MiSTercade for a spin!](https://twitter.com/EVAWINGZERO/status/1368972349387776000)<br>
