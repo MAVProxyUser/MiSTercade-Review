@@ -1,3 +1,4 @@
+On that note, this is not going to be your normal Mistercade review.
 # MiSTercade-Review
 Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) landscape
 
@@ -11,7 +12,7 @@ Some of you may be a bit young, but Jack Burton is of course the main character 
 [![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.png)](https://www.youtube.com/watch?v=592EiTD2Hgo)
 
 # Buckle up 
-On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. <br>
+On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. So this is really more of a review of MiSTer, and it's ability to support MiSTercade in the hands of an arcade enthusiast, operator, or service tech.<br>
 
 [MiSTerCade: FPGA JAMMA Greatness for Arcade Gaming!](https://www.youtube.com/watch?v=9-212r6kKC8)<br>
 [Join us for a nice little cozy MiSTer FPGA stream @misteraddons MiSTerCade](https://www.youtube.com/watch?v=yHAW0AfTomA)<br>
