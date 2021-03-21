@@ -135,7 +135,10 @@ https://focusattack.com/pb-jamma-project-adapter-board/<br>
 [![xbox](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/xbox.png)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
 
 # Conclusion
-Having examined all of the above solutions, including my own attempt, it was easy to point at the MiSTercade as the winner. I flat out can't have things hanging off MiSTer, it drives me nuts. This immediately eliminates several of the options. The other options are either boutique in nature, or are so limited in availability the are not worth considering. A few of these are clearly just the musings of random MiSTer aficionados and will never see a proper manufacturing run.<br>
+Having examined all of the above solutions, including my own attempt, it was easy to point at the MiSTercade as the winner. I flat out can't have things hanging off MiSTer, it drives me nuts. 
+[![hanging](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/irken.png)](https://irkenlabs.com/82-winter-update-2021)
+
+This immediately eliminates several of the options. The other options are either boutique in nature, or are so limited in availability the are not worth considering. A few of these are clearly just the musings of random MiSTer aficionados and will never see a proper manufacturing run.<br>
 For me the MiSTercade is quite simply a very clean hardware design, backed by a figurehead in the MiSTer community known for his outstanding support. Ease of use, and drop in no hassle installation have me sold on this one. Now that is in pre-order things have gotten more real, it is time to draw lines in the sand, and make a choice. I've made mine with ease. I still hold several contentions with how the MiSTer project is run but I'm currently not letting them get in my way of supporting MiSTercade as the best JAMMA solution for the MiSTer landscape. 
 
 
