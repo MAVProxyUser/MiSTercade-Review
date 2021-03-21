@@ -18,7 +18,7 @@ This is a candid review of [MiSTercade](https://misteraddons.com/products/mister
       * [8 competing solutions!?](#8-competing-solutions)
       * [My own attempt](#my-own-attempt)
    * [Conclusion](#conclusion)
-
+      * [Open Source](#open-source)
 # Intro
 Some of you may be a bit young, but Jack Burton is of course the main character in Big Trouble in Little China. **Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says,** 
 *"Give me your best shot, pal. I can take it."*<br>
