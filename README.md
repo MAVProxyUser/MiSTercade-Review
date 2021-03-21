@@ -148,7 +148,7 @@ So as not to spoil the rest of the commentary I won't discuss this further. I wi
 
 [![buildroot](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/buildroot.png)](https://buildroot.org/downloads/manual/manual.html)
 
-[![bins](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/debianbins.png)](https://misterfpga.org/viewtopic.php?p=4350#p4350)
+[![bins](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/debianbins.jpeg)](https://misterfpga.org/viewtopic.php?p=4350#p4350)
 
 [![rules](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/rules.jpeg)](https://misterfpga.org/viewtopic.php?p=4327#p4327)
 
