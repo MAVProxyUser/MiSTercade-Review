@@ -122,6 +122,12 @@ https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/
 JammaCon<br>
 http://retrotechr.blogspot.com/2015/11/jammacon.html?m=1
 
+JVS-PAC2
+https://irkenlabs.com/jvs-pac2/introduction
+
+DE10-Nano JAMMA Expander
+https://irkenlabs.com/85-mister-de10-nano-jamma-expander
+
 ## My own attempt
 Given the availability of some of the options, I decided to take a shot a building my own adapter from commodity hardware. I chose the Microsoft Adaptive controller, combined with a Focus Attack PB.Jamma V1.0 board, and 3.5mm audio jacks.<br>
 https://focusattack.com/pb-jamma-project-adapter-board/<br>
