@@ -11,10 +11,10 @@ Some of you may be a bit young, but Jack Burton is of course the main character 
 [![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.jpg)](https://www.youtube.com/watch?v=592EiTD2Hgo)
 
 On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. 
-https://www.youtube.com/watch?v=9-212r6kKC8<br>
-https://www.youtube.com/watch?v=yHAW0AfTomA<br>
-https://twitter.com/EVAWINGZERO/status/1368972349387776000<br>
-https://twitter.com/ScarletSprites/status/1355950337778196487<br>
+[MiSTerCade: FPGA JAMMA Greatness for Arcade Gaming!](https://www.youtube.com/watch?v=9-212r6kKC8)<br>
+[Join us for a nice little cozy MiSTer FPGA stream @misteraddons MiSTerCade](https://www.youtube.com/watch?v=yHAW0AfTomA)<br>
+[Tonight we are taking the @MisterAddons MiSTercade for a spin!](https://twitter.com/EVAWINGZERO/status/1368972349387776000)<br>
+[I don’t know if it’s real or if it’s MiSTerCade any more 😱](https://twitter.com/ScarletSprites/status/1355950337778196487)<br>
 
 I want to first say that some of you will find this to be overly critical of the MiSTer project, and honestly may get offended. Constructive criticism can be hard to absorb, especially when you are
 in the process of soaking up all the positive energy from recent articles in [The Verge](https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc)! My past few weeks have been spent in the trenches discussing nuances of MiSTer with long time users, devs, and potential new users on the fence about making their first investment. 
