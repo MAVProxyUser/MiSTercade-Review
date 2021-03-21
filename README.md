@@ -15,7 +15,7 @@ This is a candid review of [MiSTercade](https://misteraddons.com/products/mister
       * [Questionable usablilty](#questionable-usablilty)
       * [Word on the streets](#word-on-the-streets)
    * [My preferences and observations](#my-preferences-and-observations)
-      * [8 competing solutions!?](#8-competing-solutions)
+      * [9 competing solutions!?](#8-competing-solutions)
       * [My own attempt](#my-own-attempt)
    * [Conclusion](#conclusion)
       * [Open Source](#open-source)
@@ -86,7 +86,7 @@ These are a few comments that I ran across while looking around for others that 
 I personally don't usually use JAMMA that much, I'm more of a JVS guy. Several of my cabs do however have the following looms from River Service. <br>
 [![loom](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/loom.png)](https://www.rs2006.co.jp/e/jamma_harness/index.html)
 
-## 8 competing solutions!?
+## 9 competing solutions!?
 
 I of course had to do my due dilligence and make sure that there wasn't a better solution available. I came across the following projects, and products while looking for a MiSTercade alternative.<br>
 
