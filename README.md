@@ -44,7 +44,7 @@ Based on the date of my [Tweet](https://twitter.com/d0tslash/status/116706995929
 I've since bought two pre-configured bundles from [Porkchop Express](https://twitter.com/MisterAddons) aka [Mister Addons or JackBurton in some circles](https://www.atari-forum.com/viewtopic.php?t=33613). I have both a [Standard IO](https://misteraddons.com/products/io-board-v6-1-with-heatsink), and [Digital IO](https://misteraddons.com/products/io-digital-board-v1-2-with-heatsink), as well as some [SNAC accessories](https://misterfpga.co.uk/product/snac-controller-adapters-pcb-set/) that allow me to plug in my native controllers for PC Engine, and Super Nintendo. Generally speaking I don't care too much about the arcade cores, I'm more interested in the console 
 cores for [Genesis](https://github.com/MiSTer-devel/Genesis_MiSTer), [NES](https://github.com/MiSTer-devel/NES_MiSTer), [SNES](https://github.com/MiSTer-devel/SNES_MiSTer), [PCEngine](https://github.com/MiSTer-devel/TurboGrafx16_MiSTer), [GameBoy](https://github.com/MiSTer-devel/Gameboy_MiSTer), and [Gameboy Advance](https://github.com/MiSTer-devel/GBA_MiSTer). 
 
-Honestly before the [Jotego CPS2](https://www.patreon.com/topapate) core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. The [Cave core](https://www.patreon.com/nullobject) is pretty lit of course, this goes without saying. The [PSX core](https://www.patreon.com/laxer3a) is also interesting to me, but is clearly a bit early to discuss. 
+Honestly before the [Jotego CPS2](https://www.patreon.com/topapate) core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. The [Cave core](https://www.patreon.com/nullobject) is pretty lit of course, this goes without saying. Likewise the [PSX core](https://www.patreon.com/laxer3a) is also interesting to me, but is clearly a bit early to discuss. 
 
 # Emulation, or recreation?
 Over all [I am notoriously anti emulation](https://youtu.be/0U0dcHUY-5M?t=852), as I've [stated a number of times](https://youtu.be/OQGs_8J4a8c?t=2129), so for me adopting MiSTer requires an extremely focused eye on the supporting landscape. If even the slightest
@@ -87,7 +87,7 @@ I personally don't usually use JAMMA that much, I'm more of a JVS guy. Several o
 
 ## 8 competing solutions!?
 
-I of course had to do my due dilligence and make sure that there wasn't a better solution available. I came across the following projects, and products while looking.<br>
+I of course had to do my due dilligence and make sure that there wasn't a better solution available. I came across the following projects, and products while looking for a MiSTercade alternative.<br>
 
 MisterCade by PorkChop Express<br> 
 https://twitter.com/misteraddons/status/1308618491466067968?lang=en<br>
