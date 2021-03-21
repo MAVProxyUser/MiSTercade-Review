@@ -8,7 +8,7 @@ Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in
 Some of you may be a bit young, but Jack Burton is of course the main character in Big Trouble in Little China. **Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says,** 
 *"Give me your best shot, pal. I can take it."*<br>
 
-[![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.jpg)](https://www.youtube.com/watch?v=592EiTD2Hgo)
+[![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.png)](https://www.youtube.com/watch?v=592EiTD2Hgo)
 
 On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. <br>
 
