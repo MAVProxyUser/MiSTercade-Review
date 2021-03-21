@@ -1,5 +1,5 @@
 # MiSTercade review
-This is a candid review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) landscape
+This is a candid review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) landscape.
 
 [![Big trouble, little china](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/porkchopexpress.jpg)](https://www.imdb.com/title/tt0090728/characters/nm0000621)
 [![Mister Addons](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/misteraddons.png)](https://misteraddons.com)
@@ -124,12 +124,13 @@ JammaCon<br>
 http://retrotechr.blogspot.com/2015/11/jammacon.html?m=1
 
 ## My own attempt
-Microsoft Adaptive controller with focus attack PB.Jamma V1.0 and 3.5mm audio jacks.<br>
-https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller<br>
+Given the availability of some of the options, I decided to take a shot a building my own adapter from commodity hardware. I chose the Microsoft Adaptive controller, combined with a Focus Attack PB.Jamma V1.0 board, and 3.5mm audio jacks.<br>
 https://focusattack.com/pb-jamma-project-adapter-board/<br>
-https://twitter.com/arcade_projects/status/1371310079711002626<br>
-https://twitter.com/arcade_projects/status/1364406245076197377<br>
-https://twitter.com/arcade_projects
+
+[![xbox](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/xbox.png)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
 
 # Conclusion
+Having examined all of the above solutions, including my own attempt, it was easy to point at the MiSTercade as the winner. I flat out can't have things hanging off MiSTer, it drives me nuts. This immediately eliminates several of the options. The other options are either boutique in nature, or are so limited in availability the are not worth considering. A few of these are clearly just the musings of random MiSTer aficionados and will never see a proper manufacturing run.<br>
+For me the MiSTercade is quite simply a very clean hardware design, backed by a figurehead in the MiSTer community known for his outstanding support. Ease of use, and drop in no hassle installation have me sold on this one. Now that is in pre-order things have gotten more real, it is time to draw lines in the sand, and make a choice. I've made mine with ease. I still hold several contentions with how the MiSTer project is run but I'm currently not letting them get in my way of supporting MiSTercade as the best JAMMA solution for the MiSTer landscape. 
+
 
