@@ -65,7 +65,7 @@ These are a few comments tha I ran across while looking around for others that h
 
 ## My preferences and observations
 I personally don't usually use JAMMA, I'm more of a JVS guy. My cabs do however have the following looms. <br>
-https://www.rs2006.co.jp/e/jamma_harness/index.html
+[![loom](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/loom.png)](https://www.rs2006.co.jp/e/jamma_harness/index.html)
 
 5 competing solutions!?
 
