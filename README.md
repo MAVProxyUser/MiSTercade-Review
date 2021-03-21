@@ -5,8 +5,8 @@ Review of [MiSTercade](https://misteraddons.com/products/mistercade) hardware in
 [![Mister Addons](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/misteraddons.png)](https://misteraddons.com)
 [![Mistercade](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/mistercade.jpg)](https://github.com/misteraddons/MiSTercade)<br>
 
-Some of you may be a bit young, but Jack Burton is of course the main character in Big Trouble in Little China. **Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says, ** 
-* "Give me your best shot, pal. I can take it."*<br>
+Some of you may be a bit young, but Jack Burton is of course the main character in Big Trouble in Little China. **Just remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of Heaven shake. Yeah, Jack Burton just looks that big ol' storm right square in the eye and he says,** 
+*"Give me your best shot, pal. I can take it."*<br>
 
 [![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.jpg)](https://www.youtube.com/watch?v=592EiTD2Hgo)
 
