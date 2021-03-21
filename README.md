@@ -67,6 +67,7 @@ At the very least the cabinet operators also need the most basic of service, and
 or troubleshooting a stuck button / stick would be very disruptive to normal usage.<br> 
 
 The lack of a universal test or service core seems counter-intuitive in my opinion. The menu itself is a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of common multi-cart platforms.  
+<img src=https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/menu.png>
 
 ## Word on the streets
 These are a few comments that I ran across while looking around for others that had possibly found the settings necessary for a more rich arcade experience while using MiSTer. 
@@ -139,6 +140,21 @@ Having examined all of the above solutions, including my own attempt, it was eas
 [![hanging](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/irken.png)](https://irkenlabs.com/82-winter-update-2021)
 
 The other options are either boutique in nature, or are so limited in availability the are not worth considering. A few of these are clearly just the musings of random MiSTer aficionados and will never see a proper manufacturing run.<br>
+
 For me the MiSTercade is quite simply a very clean hardware design, backed by a figurehead in the MiSTer community known for his outstanding support. Ease of use, and drop in no hassle installation have me sold on this one. Now that is in pre-order things have gotten more real, it is time to draw lines in the sand, and make a choice. I've made mine with ease. I still hold several contentions with how the MiSTer project is run but I'm currently not letting them get in my way of supporting MiSTercade as the best JAMMA solution for the MiSTer landscape. 
 
+## Open Source
+So as not to spoil the rest of the commentary I won't discuss this further. I will say however that the flat out refusal to share the MiSTer [buildroot](https://buildroot.org) will absolutly cause Open Source, and GPL purists to steer clear of the project. There has been some very concerning commentary out of the project leads indicating that they are not familar with common Open Source practices. 
+
+[![buildroot](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/buildroot.png)](https://buildroot.org/downloads/manual/manual.html)
+
+[![bins](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/debianbins.png)](https://misterfpga.org/viewtopic.php?p=4350#p4350)
+
+[![rules](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/rules.jpeg)](https://misterfpga.org/viewtopic.php?p=4327#p4327)
+
+[![fuckGPS](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/fuckGPS.jpeg)](https://github.com/MiSTer-devel/Main_MiSTer/issues/110#issuecomment-544278201)
+
+[![license](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/license.jpeg)](https://github.com/MiSTer-devel/Main_MiSTer/issues/110#issuecomment-544278201)
+
+[![linuxbuilds](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/linuxbuilds.jpeg)](https://www.atari-forum.com/viewtopic.php?f=117&t=36858&p=375331&#p375331)
 
