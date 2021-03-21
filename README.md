@@ -158,3 +158,7 @@ So as not to spoil the rest of the commentary I won't discuss this further. I wi
 
 [![linuxbuilds](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/linuxbuilds.jpeg)](https://www.atari-forum.com/viewtopic.php?f=117&t=36858&p=375331&#p375331)
 
+[![scripts](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/scripts.jpeg)](https://discord.com/invite/4xKVg4XVYn)
+
+[![booger](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/booger.jpeg)](https://www.reddit.com/r/fpgagaming/comments/lbccqa/official_mister_fpga_discord/)
+
