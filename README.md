@@ -152,7 +152,7 @@ So as not to spoil the rest of the commentary I won't discuss this further. I wi
 
 [![rules](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/rules.jpeg)](https://misterfpga.org/viewtopic.php?p=4327#p4327)
 
-[![fuckGPS](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/fuckGPS.jpeg)](https://github.com/MiSTer-devel/Main_MiSTer/issues/110#issuecomment-544278201)
+[![fuckGPL](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/fuckGPL.jpeg)](https://github.com/MiSTer-devel/Main_MiSTer/issues/110#issuecomment-544278201)
 
 [![license](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/license.jpeg)](https://github.com/MiSTer-devel/Main_MiSTer/issues/110#issuecomment-544278201)
 
