@@ -37,7 +37,7 @@ thing is out of place it will annoy me to no end, and make me subject to not usi
 
 "latency" isn't really a conversation piece for me, although I know it is a huge thing for other folks. Porkchop Express maintains for example that largest spreadsheet that I am aware of [documenting lag in MiSter input options](https://twitter.com/MisterAddons/status/1265071632382640131). 
 
-"accuracy" is something I care quite a bit about, both in "video output" / "stick input", as well as in over all experience. So the first annoyance for me was what seemed to be an obsession with USB input. This was the first place that I got the feeling that the MiSTer arcade landscape needs to mature a little before it's own secondary mainstreaming, alongside current MiSTer hype. There seems to be a strong "consolidation" feel to the whole project. For me stems feel stems from an unnecessary focus on USB input, key mapping, and HDMI output. The conversation is almost comical at it's core, and honestly threw up some of the first red flags for me as an end user. <br>
+"Accuracy" is something I care quite a bit about, both in "video output" / "stick input", as well as in over all experience. So the first annoyance for me was what seemed to be an obsession with USB input. This was the first place that I got the feeling that the MiSTer arcade landscape needs to mature a little before it's own secondary mainstreaming, alongside current MiSTer hype. There seems to be a strong "consolization" feel to the whole project. For me this feel stems from an unnecessary focus on USB input, key mapping, and HDMI output. The conversation is almost comical at it's core, and honestly threw up some of the first red flags for me as an end user. <br>
 [![lag](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/lag.png)](https://www.atari-forum.com/viewtopic.php?p=389051#p389051)
 
 # Is this arcade ready?
@@ -46,9 +46,12 @@ Despite the uptick in "arcade" marketing for various accessories for MiSTer, few
 [![tv](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/tv.png)](https://www.atari-forum.com/viewtopic.php?p=399173#p399173)
 
 ## Questionable usablilty
-Some of the workflows in the menuing system are almost complete non-starters for actual use in an arcade setting, with off the street players whom have never heard of MiSTer, or flat out don't care to know about it. Most folks that touch my machines just want to play the game that I have set on the Marquee. The folks operating my machines at random events, and in various locations simply want to be able to turn them off, and back on when a problem occurs. The expectation is that they will boot back up ready to rock, as opposed to requiring manual core, and game selection. At the very least the cabinet operators also need the most basic of service, and coin menu functions for day to day operations, and player comp situations. At this point in time a power outage, or a stuck button / stick would be very disruptive to normal usage. The lack of a universal test or service core seems counter-intuitive in my opinion. The menu 
-itself is a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of
-common multi-cart platforms.  
+Some of the workflows in the menuing system are almost complete non-starters for actual use in an arcade setting, with off the street players whom have never heard of MiSTer, or flat out don't care to know about it. Most folks that touch my machines just want to play the game that I have set on the marquee. The folks operating my machines at random events, and in various locations simply want to be able to turn them off, and back on when a problem occurs. The expectation is that they will boot back up ready to rock, as opposed to requiring manual core, and game selection.<br> 
+
+At the very least the cabinet operators also need the most basic of service, and coin menu functions for day to day operations, and player comp situations. At this point in time a power outage, 
+or troubleshooting a stuck button / stick would be very disruptive to normal usage.<br> 
+
+The lack of a universal test or service core seems counter-intuitive in my opinion. The menu itself is a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of common multi-cart platforms.  
 
 ## Word on the streets
 These are a few comments tha I ran across while looking around for others that had possibly found the settings necessary for a more rich arcade experience while using MiSTer. 
