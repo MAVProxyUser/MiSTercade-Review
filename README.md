@@ -144,7 +144,7 @@ The other options are either boutique in nature, or are so limited in availabili
 For me the MiSTercade is quite simply a very clean hardware design, backed by a figurehead in the MiSTer community known for his outstanding support. Ease of use, and drop in no hassle installation have me sold on this one. Now that is in pre-order things have gotten more real, it is time to draw lines in the sand, and make a choice. I've made mine with ease. I still hold several contentions with how the MiSTer project is run but I'm currently not letting them get in my way of supporting MiSTercade as the best JAMMA solution for the MiSTer landscape. 
 
 ## Open Source
-So as not to spoil the rest of the commentary I won't discuss this further. I will say however that the flat out refusal to share the MiSTer [buildroot](https://buildroot.org) will absolutly cause Open Source, and GPL purists to steer clear of the project. There has been some very concerning commentary out of the project leads indicating that they are not familar with common Open Source practices. 
+So as not to spoil the rest of the commentary I won't discuss this further. I will say however that the flat out refusal to share the MiSTer [buildroot](https://buildroot.org) will absolutly cause Open Source, and GPL purists to steer clear of the project. There has been some very concerning commentary out of the project leads indicating that they are not familar with common Open Source practices. I will leave a few of the more egrigious comments below. 
 
 [![buildroot](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/buildroot.png)](https://buildroot.org/downloads/manual/manual.html)
 
