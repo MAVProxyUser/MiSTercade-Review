@@ -10,6 +10,7 @@ Some of you may be a bit young, but Jack Burton is of course the main character 
 
 [![poster](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/poster.png)](https://www.youtube.com/watch?v=592EiTD2Hgo)
 
+# Buckle up 
 On that note, this is not going to be your normal Mistercade review. I've watched a few beta testers on YouTube, Twitch, and Twitter, and most folks tend to focus on the fact that they are having fun, and able to do so in their arcade cab. Very few seem to tackle any more than a cursory scratch on the surface of the MiSTer landscape itself that supports MiStercade. <br>
 
 [MiSTerCade: FPGA JAMMA Greatness for Arcade Gaming!](https://www.youtube.com/watch?v=9-212r6kKC8)<br>
@@ -17,9 +18,11 @@ On that note, this is not going to be your normal Mistercade review. I've watche
 [Tonight we are taking the @MisterAddons MiSTercade for a spin!](https://twitter.com/EVAWINGZERO/status/1368972349387776000)<br>
 [I don’t know if it’s real or if it’s MiSTerCade any more 😱](https://twitter.com/ScarletSprites/status/1355950337778196487)<br>
 
+## Trigger warning
 I want to first say that some of you will find this to be overly critical of the MiSTer project, and honestly may get offended. Constructive criticism can be hard to absorb, especially when you are
 in the process of soaking up all the positive energy from recent articles in [The Verge](https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc)! My past few weeks have been spent in the trenches as a hopeful, fresh new user, discussing nuances of MiSTer with long time users, devs, and potential new users on the fence about making their first investment. 
 
+# I'm going in! 
 My first MiSTer exposure was in 2019. I was admiditly curious, but skeptical, due to my oversion to MAME based software emulation. "Forget emulation? this is REcreation" was the title to the now gone video. 
 Based on the date of my [Tweet](https://twitter.com/d0tslash/status/1167069959291379712), I'm pretty sure it was when the [Neo Geo core was relesaed](https://www.youtube.com/watch?v=tcja7Cppiq0). I was at that time restoring an MVS system in my arcade, so this was quite intriguing to me. As I mentioned both the [original post](https://www.reddit.com/r/fpgagaming/comments/d2hasc/neogeo_core_on_mister_fpga_sd_ram_limits_pushed/ezx6ecj/?utm_source=reddit&utm_medium=web2x&context=3), and [video](https://www.youtube.com/watch?v=LZoXP0Uww80) are long gone.
 
@@ -28,6 +31,7 @@ cores for [Genesis](https://github.com/MiSTer-devel/Genesis_MiSTer), [NES](https
 
 Honestly before the [Jotego CPS2](https://www.patreon.com/topapate) core came out in beta, I've not really cared much about the older arcade PCB's that are recreated as fpga cores for MiSTer. The [Cave core](https://www.patreon.com/nullobject) is pretty lit of course, this goes without saying. The [PSX core](https://www.patreon.com/laxer3a) is also interesting to me, but is clearly a bit early to discuss. 
 
+# Emulation, or recreation?
 Over all [I am notoriously anti emulation](https://youtu.be/0U0dcHUY-5M?t=852), as I've [stated a number of times](https://youtu.be/OQGs_8J4a8c?t=2129), so for me adopting MiSTer requires an extremely focused eye on the supporting landscape. If even the slightest
 thing is out of place it will annoy me to no end, and make me subject to not using the platform at all.  
 
@@ -36,16 +40,13 @@ thing is out of place it will annoy me to no end, and make me subject to not usi
 "accuracy" is something I care quite a bit about, both in "video output" / "stick input", as well as in over all experience. So the first annoyance for me was what seemed to be an obsession with USB input. This was the first place that I got the feeling that the MiSTer arcade landscape needs to mature a little before it's own secondary mainstreaming, alongside current MiSTer hype. There seems to be a strong "consolidation" feel to the whole project. For me stems feel stems from an unnecessary focus on USB input, key mapping, and HDMI output. The conversation is almost comical at it's core, and honestly threw up some of the first red flags for me as an end user. <br>
 [![lag](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/lag.png)](https://www.atari-forum.com/viewtopic.php?p=389051#p389051)
 
-
+# Is this arcade ready?
 Despite the uptick in "arcade" marketing for various accessories for MiSTer, few folks seem to have actual "arcade" experience, or actually own cabs, let alone more than one. This generally isn't a problem for most MiSTer users, but as an arcade operator coming into the mix, it is extremely annoying. 
 
 [![tv](https://github.com/MAVProxyUser/MiSTercade-Review/blob/main/tv.png)](https://www.atari-forum.com/viewtopic.php?p=399173#p399173)
 
-
-Some of the workflows in the menuing system are almost complete non-starters for actual use in an arcade with end users whom have never heard of MiSTer, or flat out don't care to know. Most folks that touch my machines just want to play
-the game that I have set on the Marquee. The folks operating my machines in various locations simply want to be able to turn them off, and back on in the event of a problem, expecting
-that they will boot back up ready to rock. At the very least the cabinet operators need the most basic of service, and coin menu functions for day to day operations. At this point in
-time a power outage, or a stick button / stick would be very disruptive to normal usage. The lack of a universal test or service core seems counter-intuitive in my opinion. The menu 
+## Questionable usablilty
+Some of the workflows in the menuing system are almost complete non-starters for actual use in an arcade setting, with off the street players whom have never heard of MiSTer, or flat out don't care to know about it. Most folks that touch my machines just want to play the game that I have set on the Marquee. The folks operating my machines at random events, and in various locations simply want to be able to turn them off, and back on when a problem occurs. The expectation is that they will boot back up ready to rock, as opposed to requiring manual core, and game selection. At the very least the cabinet operators also need the most basic of service, and coin menu functions for day to day operations, and player comp situations. At this point in time a power outage, or a stuck button / stick would be very disruptive to normal usage. The lack of a universal test or service core seems counter-intuitive in my opinion. The menu 
 itself is a point of contention for many folks. Some argue it is overly simplistic for what the system is capable of, others saying that it is no less appropriate then the menuing of
 common multi-cart platforms.  
 
